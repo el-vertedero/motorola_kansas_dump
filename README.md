@@ -1,0 +1,14 @@
+# user 15 V1VK35.22-37-2-5 e028f release-keys
+- manufacturer: motorola
+- platform: common
+- codename: kansas
+- flavor: user
+- release: 15
+- id: V1VK35.22-37-2-5
+- incremental: e028f
+- tags: release-keys
+- fingerprint: motorola/kansas_g_hal/kansas:13/V1VK35.22-37-2-5/e028f:user/release-keys
+- is_ab: true
+- brand: motorola
+- branch: user-15-V1VK35.22-37-2-5-e028f-release-keys
+- repo: motorola_kansas_dump

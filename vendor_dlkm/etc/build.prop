@@ -1,0 +1,21 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.vendor_dlkm.brand=motorola
+ro.product.vendor_dlkm.device=kansas
+ro.product.vendor_dlkm.manufacturer=motorola
+ro.product.vendor_dlkm.model=kansas
+ro.product.vendor_dlkm.name=kansas_g_vext
+ro.vendor_dlkm.build.date=Wed Apr  2 03:43:50 CDT 2025
+ro.vendor_dlkm.build.date.utc=1743583430
+ro.vendor_dlkm.build.fingerprint=motorola/kansas_g_vext/kansas:13/V1VK35.22-37-2-5/e028f:user/release-keys
+ro.vendor_dlkm.build.id=V1VK35.22-37-2-5
+ro.vendor_dlkm.build.tags=release-keys
+ro.vendor_dlkm.build.type=user
+ro.vendor_dlkm.build.version.incremental=e028f
+ro.vendor_dlkm.build.version.release=13
+ro.vendor_dlkm.build.version.release_or_codename=13
+ro.vendor_dlkm.build.version.sdk=33
+# end of file
+
